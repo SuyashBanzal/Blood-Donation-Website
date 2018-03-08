@@ -1,0 +1,2 @@
+# Blood-Donation-Website
+From the most common blood group to the rarest, the site has a huge database of blood donors. So if you need blood, it's a good place to turn to. It's simple. It's effective. It's Free. It can match you with a donor near you in minutes. And you can save the life of a loved one. You can also Sign up as a donor at the site and save the life of someone else's loved one. Pass the message and let's build a community that cares !
